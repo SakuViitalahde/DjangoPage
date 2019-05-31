@@ -1,0 +1,9 @@
+D:\Python>cd django
+
+D:\Python\django>django-admin startproject mysite
+
+D:\Python\django>cd mysite
+
+D:\Python\django\mysite>py -3.7 manage.py startapp main
+
+D:\Python\django\mysite>py -3.7 manage.py runserver
